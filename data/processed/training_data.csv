@@ -1,361 +1,361 @@
 price_band,rating_mult,sponsored_option,position_cat_stand,prime_option,subcategory
-True,49.0,True,0.000515186336325513,True,Boxing Training Gloves
-True,46.0,True,0.00371442988165555,True,Boxing Gloves
-True,49.0,True,0.004224315947031212,True,Boxing Gloves
-True,47.0,True,0.001967460576584675,True,Boxing Training Gloves
-True,46.0,False,0.0001844494290548133,True,Boxing Training Gloves
-True,47.0,False,0.001967460576584675,True,Boxing Training Gloves
-False,48.0,False,0.0010876155989094163,False,Boxing Fight Gloves
-True,46.0,False,0.0023755814397231987,True,Training Gloves
-False,45.0,False,0.012245746002535649,False,Boxing Training Gloves
-True,44.0,False,0.05328998418399149,True,Training Gloves
-True,47.0,False,0.024708803114015188,True,Boxing Training Gloves
-False,46.0,False,0.011396642596369527,False,Training Gloves
-False,46.0,False,0.0034494163341630022,False,Boxing Training Gloves
-False,46.0,False,0.08448949910319416,False,Boxing Fight Gloves
-False,46.0,False,0.0009349677955537087,False,Boxing Training Gloves
-False,44.0,False,0.0022017325525680873,False,Boxing Bag Gloves
-True,43.0,True,0.0217957741999771,True,Training Gloves
-True,44.0,True,0.009383599689616133,True,Training Gloves
-True,46.0,True,0.0001844494290548133,True,Boxing Training Gloves
-True,46.0,False,0.00371442988165555,True,Boxing Gloves
-False,46.0,False,0.005896021404614204,False,Boxing Training Gloves
-True,47.0,False,0.012615704914835246,True,Boxing Training Gloves
-True,46.0,False,0.0035278603442207967,True,Training Gloves
-False,48.0,False,0.009292435029278697,True,Boxing Training Gloves
-True,46.0,False,0.006507672672227004,True,Training Gloves
-False,49.0,False,0.029743000462183627,False,Boxing Training Gloves
-False,49.0,False,0.006138773814117378,True,Boxing Training Gloves
-True,45.0,False,0.029897768373919276,True,Boxing Training Gloves
+True,49.0,True,-0.7565132072441852,True,Boxing Training Gloves
+True,46.0,True,-0.7407626346993742,True,Boxing Gloves
+True,49.0,True,-0.7382523545820601,True,Boxing Gloves
+True,47.0,True,-0.7493633449557853,True,Boxing Training Gloves
+True,46.0,False,-0.7581414970500107,True,Boxing Training Gloves
+True,47.0,False,-0.7493633449557853,True,Boxing Training Gloves
+False,48.0,False,-0.7536950133494874,False,Boxing Fight Gloves
+True,46.0,False,-0.7473540770864174,True,Training Gloves
+False,45.0,False,-0.6987611079132116,False,Boxing Training Gloves
+True,44.0,False,-0.4966913867857969,True,Training Gloves
+True,47.0,False,-0.6374027641725412,True,Boxing Training Gloves
+False,46.0,False,-0.7029414288570133,False,Training Gloves
+False,46.0,False,-0.7420673540950676,False,Boxing Training Gloves
+False,46.0,False,-0.3430893817696016,False,Boxing Fight Gloves
+False,46.0,False,-0.7544465317214069,False,Boxing Training Gloves
+False,44.0,False,-0.7482099730099923,False,Boxing Bag Gloves
+True,43.0,True,-0.6517442397700033,True,Training Gloves
+True,44.0,True,-0.7128520773867005,True,Training Gloves
+True,46.0,True,-0.7581414970500107,True,Boxing Training Gloves
+True,46.0,False,-0.7407626346993742,True,Boxing Gloves
+False,46.0,False,-0.7300221846340259,False,Boxing Training Gloves
+True,47.0,False,-0.6969397196368236,True,Boxing Training Gloves
+True,46.0,False,-0.7416811571539423,True,Training Gloves
+False,48.0,False,-0.713300900858819,True,Boxing Training Gloves
+True,46.0,False,-0.7270108922687655,True,Training Gloves
+False,49.0,False,-0.6126183145319489,False,Boxing Training Gloves
+False,49.0,False,-0.7288270616675707,True,Boxing Training Gloves
+True,45.0,False,-0.611856358404864,True,Boxing Training Gloves
 True,,False,,True,
-True,46.0,False,0.10375280384333248,True,Boxing Training Gloves
-True,,False,0.3712161365689014,True,Boxing Training Gloves
-True,47.0,True,0.0025812319525774156,True,Boxing Fight Gloves
-False,43.0,True,0.013919571568498582,False,Boxing Training Gloves
-True,46.0,True,0.02743844265318843,True,Boxing Training Gloves
-True,45.0,False,0.11163430674576084,True,Boxing Fight Gloves
-False,43.0,False,0.025744476057616067,False,Boxing Training Gloves
-True,42.0,False,0.06298523980545885,True,Boxing Training Gloves
-False,50.0,False,0.13671518888045556,False,Boxing Training Gloves
-True,48.0,False,0.01935552945466572,True,Boxing Training Gloves
-True,47.0,False,0.0025812319525774156,True,Boxing Fight Gloves
-True,47.0,False,0.06827809037598002,True,Boxing Training Gloves
-True,49.0,False,0.004224315947031212,True,Boxing Gloves
-True,45.0,False,0.016086322332797654,True,Boxing Training Gloves
+True,46.0,False,-0.248251938335438,True,Boxing Training Gloves
+True,,False,1.0685282834517753,True,Boxing Training Gloves
+True,47.0,True,-0.7463416148353593,True,Boxing Fight Gloves
+False,43.0,True,-0.6905205002100119,False,Boxing Training Gloves
+True,46.0,True,-0.623964154396899,True,Boxing Training Gloves
+True,45.0,False,-0.20944958350751558,True,Boxing Fight Gloves
+False,43.0,False,-0.6323039207741713,False,Boxing Training Gloves
+True,42.0,False,-0.4489595324137487,True,Boxing Training Gloves
+False,50.0,False,-0.08597093989909,False,Boxing Training Gloves
+True,48.0,False,-0.6637580959655484,True,Boxing Training Gloves
+True,47.0,False,-0.7463416148353593,True,Boxing Fight Gloves
+True,47.0,False,-0.42290167664295963,True,Boxing Training Gloves
+True,49.0,False,-0.7382523545820601,True,Boxing Gloves
+True,45.0,False,-0.6798531144308224,True,Boxing Training Gloves
 False,,False,,False,
 False,46.0,False,,False,
-True,45.0,False,0.001667465240823111,False,Heavy Boxing Bags
-False,44.0,False,0.016578187476943822,False,Boxing Fight Gloves
-True,47.0,False,0.11059969385634993,True,Boxing Training Gloves
-False,45.0,False,0.0017278883296514118,False,Boxing Training Gloves
-False,39.0,False,0.0812626941489249,False,Boxing Fight Gloves
-False,46.0,False,0.042861171063064744,False,Training Gloves
-False,47.0,False,0.13012271187303096,False,Boxing Training Gloves
-False,43.0,False,0.013919571568498582,False,Boxing Training Gloves
-False,47.0,False,0.007436280142640892,False,Boxing Training Gloves
-True,44.0,False,0.1262132320204209,True,Boxing Training Gloves
-True,47.0,False,0.08041677090532869,False,Boxing Fight Gloves
-True,44.0,False,0.037286346078011505,True,Training Gloves
-True,44.0,False,0.059121342283017506,False,Boxing Training Gloves
-True,46.0,True,0.006507672672227004,True,Training Gloves
-False,46.0,True,0.005896021404614204,False,Boxing Training Gloves
-True,20.0,True,0.021881638589364687,True,Boxing Pads
-False,,True,0.2137768882745286,False,Martial Arts
-False,45.0,True,0.0,False,Martial Arts Hand Wraps
-True,47.0,True,0.005689310837570016,True,Boxing Fight Gloves
-True,44.0,False,0.03377862676340015,True,Training Gloves
-True,50.0,False,0.11340459724301107,True,Boxing Training Gloves
-False,40.0,False,0.07324868447275025,False,Boxing Training Gloves
-True,46.0,False,0.02743844265318843,True,Boxing Training Gloves
-False,40.0,False,0.0243420243642855,False,Bag Gloves
-True,50.0,False,0.2853528072355059,True,Boxing Training Gloves
-False,45.0,False,0.028395671586731515,False,Boxing Training Gloves
-True,39.0,False,0.18058765164075188,True,Boxing Fight Gloves
-False,41.0,False,0.09363988687101685,False,Boxing Training Gloves
-True,45.0,False,0.2078840470324843,True,Boxing Training Gloves
-False,42.0,False,0.04866814791572145,False,Boxing Training Gloves
-False,46.0,False,0.031170893456073476,False,Boxing Training Gloves
-False,49.0,True,0.029743000462183627,False,Boxing Training Gloves
+True,45.0,False,-0.7508402873117103,False,Heavy Boxing Bags
+False,44.0,False,-0.6774315552324155,False,Boxing Fight Gloves
+True,47.0,False,-0.2145432080283027,True,Boxing Training Gloves
+False,45.0,False,-0.7505428112894921,False,Boxing Training Gloves
+False,39.0,False,-0.35897564513156466,False,Boxing Fight Gloves
+False,46.0,False,-0.5480347044451245,False,Training Gloves
+False,47.0,False,-0.1184271395863596,False,Boxing Training Gloves
+False,43.0,False,-0.6905205002100119,False,Boxing Training Gloves
+False,47.0,False,-0.7224391555062558,False,Boxing Training Gloves
+True,44.0,False,-0.13767436011162898,True,Boxing Training Gloves
+True,47.0,False,-0.3631403094426181,False,Boxing Fight Gloves
+True,44.0,False,-0.5754807816529314,True,Training Gloves
+True,44.0,False,-0.4679823412029588,False,Boxing Training Gloves
+True,46.0,True,-0.7270108922687655,True,Training Gloves
+False,46.0,True,-0.7300221846340259,False,Boxing Training Gloves
+True,20.0,True,-0.6513215106857987,True,Boxing Pads
+False,,True,0.2934205848582264,False,Martial Arts
+False,45.0,True,-0.7590495817494133,False,Martial Arts Hand Wraps
+True,47.0,True,-0.7310398657626668,True,Boxing Fight Gloves
+True,44.0,False,-0.5927500475743295,True,Training Gloves
+True,50.0,False,-0.2007340579442835,True,Boxing Training Gloves
+False,40.0,False,-0.3984303596573338,False,Boxing Training Gloves
+True,46.0,False,-0.623964154396899,True,Boxing Training Gloves
+False,40.0,False,-0.6392084958161809,False,Bag Gloves
+True,50.0,False,0.6458044181246889,True,Boxing Training Gloves
+False,45.0,False,-0.6192515079396543,False,Boxing Training Gloves
+True,39.0,False,0.13002274661916485,True,Boxing Fight Gloves
+False,41.0,False,-0.298040030475099,False,Boxing Training Gloves
+True,45.0,False,0.2644088443755874,True,Boxing Training Gloves
+False,42.0,False,-0.5194456930466902,False,Boxing Training Gloves
+False,46.0,False,-0.6055884864279528,False,Boxing Training Gloves
+False,49.0,True,-0.6126183145319489,False,Boxing Training Gloves
 True,,True,,True,
-True,,True,0.039381013157392605,False,Maize Boxing Bags
-False,44.0,False,0.02820804199510679,False,Boxing Fight Gloves
-False,46.0,False,0.02770027603811107,False,Boxing Training Gloves
-True,46.0,False,0.0755299210895661,True,Boxing Training Gloves
-True,47.0,False,0.012225604972926216,True,Training Gloves
-True,49.0,False,0.14215962720014247,True,Boxing Training Gloves
-True,,False,0.27892781879009654,False,Boxing Training Gloves
+True,,True,-0.5651682795493705,False,Maize Boxing Bags
+False,44.0,False,-0.6201752492718052,False,Boxing Fight Gloves
+False,46.0,False,-0.6226750916339538,False,Boxing Training Gloves
+True,46.0,False,-0.3871993350992048,True,Boxing Training Gloves
+True,47.0,False,-0.6988602665872842,True,Training Gloves
+True,49.0,False,-0.05916678463396431,True,Boxing Training Gloves
+True,,False,0.6141728010954977,False,Boxing Training Gloves
 False,46.0,False,,True,
-True,44.0,False,0.009383599689616133,True,Training Gloves
-True,46.0,False,0.08103584255227127,True,Boxing Training Gloves
-True,45.0,False,0.17930816623345786,True,Boxing Fight Gloves
-True,49.0,False,0.000515186336325513,False,Boxing Training Gloves
-True,48.0,False,0.14069781247217358,True,Boxing Training Gloves
-True,46.0,True,0.004671658815198633,True,Boxing Fight Gloves
-False,45.0,True,0.11860840326157474,False,Boxing Fight Gloves
-True,50.0,True,0.4186779428164368,False,Training Gloves
+True,44.0,False,-0.7128520773867005,True,Training Gloves
+True,46.0,False,-0.36009248493427826,True,Boxing Training Gloves
+True,45.0,False,0.123723561376757,True,Boxing Fight Gloves
+True,49.0,False,-0.7565132072441852,False,Boxing Training Gloves
+True,48.0,False,-0.06636361682060923,True,Boxing Training Gloves
+True,46.0,True,-0.7360499882421295,True,Boxing Fight Gloves
+False,45.0,True,-0.17511458789044745,False,Boxing Fight Gloves
+True,50.0,True,1.302193089465302,False,Training Gloves
 False,,False,,False,
-False,,False,0.1049538452405687,False,Boxing Training Gloves
-False,41.0,False,0.1264432637796444,True,Boxing Training Gloves
-False,,False,0.12653760860255175,False,Boxing Training Gloves
-False,,False,0.23003387933191144,False,Boxing Fight Gloves
-True,45.0,False,0.0974857634722287,True,Boxing Training Gloves
-False,,False,0.19794179878475388,False,Boxing Fight Gloves
-True,,False,0.058883890144464185,True,Boxing Gloves
-False,45.0,False,0.11598052892463863,False,Boxing Training Gloves
-True,46.0,False,0.004500990090613432,True,Boxing Training Gloves
-False,,False,0.26317329341875956,False,Boxing Training Gloves
-False,46.0,False,0.19297120468798365,False,Boxing Training Gloves
-False,44.0,False,0.13510496656589085,False,Boxing Training Gloves
-False,43.0,False,0.07730657191195614,False,Boxing Training Gloves
-False,42.0,False,0.27181379512120657,False,Boxing Training Gloves
-False,48.0,False,0.21025538825544762,False,Boxing Training Gloves
-False,,False,0.06484563490885654,False,Boxing Gloves
-True,46.0,False,0.011894868065655517,True,Boxing Bag Gloves
-True,40.0,False,0.0818563244953082,True,Boxing Bag Gloves
-False,39.0,False,0.027353638317990817,False,Boxing Bag Gloves
-False,35.0,False,0.22148242218142192,False,Boxing Training Gloves
-False,,False,0.18616353667999508,False,Boxing Training Gloves
-False,50.0,False,0.3186809109681687,False,Boxing Training Gloves
-False,48.0,False,0.17209767763328063,False,Boxing Training Gloves
-False,45.0,True,8.586438938758549e-05,True,Boxing Training Gloves
-False,44.0,True,0.1016888783354605,True,Martial Arts Headgear
-True,47.0,True,0.005689310837570016,True,Boxing Fight Gloves
-True,46.0,True,0.004671658815198633,True,Boxing Fight Gloves
+False,,False,-0.2423389500341554,False,Boxing Training Gloves
+False,41.0,False,-0.13654186367616708,True,Boxing Training Gloves
+False,,False,-0.13607738357130023,False,Boxing Training Gloves
+False,,False,0.3734572914676438,False,Boxing Fight Gloves
+True,45.0,False,-0.27910594260479604,True,Boxing Training Gloves
+False,,False,0.215460991526753,False,Boxing Fight Gloves
+True,,False,-0.4691513697815001,True,Boxing Gloves
+False,45.0,False,-0.18805218541814345,False,Boxing Training Gloves
+True,46.0,False,-0.7368902275329561,True,Boxing Training Gloves
+False,,False,0.536609842460315,False,Boxing Training Gloves
+False,46.0,False,0.19098967454112714,False,Boxing Training Gloves
+False,44.0,False,-0.09389841494732323,False,Boxing Training Gloves
+False,43.0,False,-0.3784524962704761,False,Boxing Training Gloves
+False,42.0,False,0.5791489136375033,False,Boxing Training Gloves
+False,48.0,False,0.2760834735282522,False,Boxing Training Gloves
+False,,False,-0.4398004022559809,False,Boxing Gloves
+True,46.0,False,-0.7004885563931096,True,Boxing Bag Gloves
+True,40.0,False,-0.3560530736852114,True,Boxing Bag Gloves
+False,39.0,False,-0.6243816646035208,False,Boxing Bag Gloves
+False,35.0,False,0.3313566060074084,False,Boxing Training Gloves
+False,,False,0.15747404270455448,False,Boxing Training Gloves
+False,50.0,False,0.8098859293270939,False,Boxing Training Gloves
+False,48.0,False,0.08822475605873034,False,Boxing Training Gloves
+False,45.0,True,-0.7586268526652086,True,Boxing Training Gloves
+False,44.0,True,-0.25841309298909837,True,Martial Arts Headgear
+True,47.0,True,-0.7310398657626668,True,Boxing Fight Gloves
+True,46.0,True,-0.7360499882421295,True,Boxing Fight Gloves
 True,,True,,True,
-False,43.0,True,0.013919571568498582,False,Boxing Training Gloves
-False,48.0,False,0.17209767763328063,False,Boxing Training Gloves
-False,,False,0.548078757786098,False,Boxing Training Gloves
-False,43.0,False,0.0628983153618813,False,Boxing Training Gloves
-False,,False,0.5188149018177809,False,Boxing Training Gloves
-False,36.0,False,0.18436038450285577,False,Training Gloves
-True,46.0,False,0.14811713174777494,True,Boxing Fight Gloves
-True,47.0,False,0.07072257533805128,False,Boxing Training Gloves
-True,44.0,False,0.02084596564576381,False,Boxing Training Gloves
-True,40.0,False,0.0919448602212545,True,Boxing Fight Gloves
-True,45.0,False,0.10561107883835022,True,Boxing Training Gloves
-False,43.0,False,0.26114010948239674,False,Boxing Training Gloves
-True,,False,0.9726802834160883,False,Boxing Training Gloves
-True,46.0,True,0.007347235590683396,True,Boxing Fight Gloves
-False,,True,0.12653760860255175,False,Boxing Training Gloves
-False,42.0,True,0.11873560976437116,False,Training Gloves
-False,30.0,False,0.309850659565717,False,Boxing Training Gloves
-True,50.0,False,0.3917578666621438,True,Boxing Training Gloves
-True,50.0,False,0.40783570856142165,True,Boxing Training Gloves
-False,46.0,False,0.10082599422482477,False,Boxing Training Gloves
-False,43.0,False,0.3173081407921573,False,Boxing Training Gloves
-False,33.0,False,0.18756916853589556,False,Boxing Training Gloves
-False,50.0,False,0.18441126710397435,False,Training Gloves
-True,46.0,False,0.12652488795227212,True,Boxing Fight Gloves
+False,43.0,True,-0.6905205002100119,False,Boxing Training Gloves
+False,48.0,False,0.08822475605873034,False,Boxing Training Gloves
+False,,False,1.9392614759944868,False,Boxing Training Gloves
+False,43.0,False,-0.4493874803755361,False,Boxing Training Gloves
+False,,False,1.7951891414444363,False,Boxing Training Gloves
+False,36.0,False,0.14859673193625642,False,Training Gloves
+True,46.0,False,-0.029836692618776153,True,Boxing Fight Gloves
+True,47.0,False,-0.4108669449370835,False,Boxing Training Gloves
+True,44.0,False,-0.6564203540841685,False,Boxing Training Gloves
+True,40.0,False,-0.3063850157299542,True,Boxing Fight Gloves
+True,45.0,False,-0.23910324593283572,True,Boxing Training Gloves
+False,43.0,False,0.5266000352565551,False,Boxing Training Gloves
+True,,False,4.0296672351417415,False,Boxing Training Gloves
+True,46.0,True,-0.7228775412232088,True,Boxing Fight Gloves
+False,,True,-0.13607738357130023,False,Boxing Training Gloves
+False,42.0,True,-0.1744883225805146,False,Training Gloves
+False,30.0,False,0.766412679062589,False,Boxing Training Gloves
+True,50.0,False,1.169659693250764,True,Boxing Training Gloves
+True,50.0,False,1.2488144095486926,True,Boxing Training Gloves
+False,46.0,False,-0.26266125934147616,False,Boxing Training Gloves
+False,43.0,False,0.803127482857402,False,Boxing Training Gloves
+False,33.0,False,0.1643942743793124,False,Boxing Training Gloves
+False,50.0,False,0.14884723806022956,False,Training Gloves
+True,46.0,False,-0.1361400101022935,True,Boxing Fight Gloves
 False,,False,,False,
-True,46.0,False,0.01596335604676111,True,Boxing Fight Gloves
-True,46.0,False,0.037112497190856394,True,Boxing Fight Gloves
-False,47.0,False,0.010621742983501317,False,Boxing Fight Gloves
-True,33.0,True,0.35509483244783474,False,Boxing Training Gloves
-True,45.0,True,0.029897768373919276,True,Boxing Training Gloves
-False,49.0,True,0.029743000462183627,False,Boxing Training Gloves
-True,,False,0.5823842314819133,False,Boxing Training Gloves
-False,,False,0.10055780051476232,False,Boxing Training Gloves
-False,41.0,False,0.09577801617218672,False,Martial Arts Hand Wraps
-False,40.0,False,0.07657937473763658,True,Boxing Training Gloves
-False,,False,0.23160169947887735,False,Boxing Fight Gloves
-False,50.0,False,0.03679024071710546,False,Boxing Training Gloves
-True,47.0,False,0.00742355949236125,True,Boxing Gloves
-False,46.0,False,0.00420947518837163,False,Boxing Training Gloves
-True,44.0,False,0.04889923972913495,True,Boxing Training Gloves
-False,43.0,False,0.20014671149989188,False,Boxing Training Gloves
-False,,False,0.45780136280566663,False,Boxing Training Gloves
-True,46.0,False,0.003862837468251377,True,Boxing Training Gloves
-True,48.0,False,0.007893163498518044,True,Boxing Training Gloves
-True,47.0,False,0.011383921946089883,True,Boxing Fight Gloves
-True,46.0,False,0.022653358039662987,True,Boxing Training Gloves
-False,,False,0.20601093127880699,False,Boxing Gloves
-False,50.0,False,0.10839796130378185,True,Boxing Training Gloves
-True,46.0,False,0.005469879620246187,True,Boxing Fight Gloves
-False,,False,0.44600719988805826,False,Boxing Training Gloves
+True,46.0,False,-0.6804585042304242,True,Boxing Fight Gloves
+True,46.0,False,-0.5763366775765062,True,Boxing Fight Gloves
+False,47.0,False,-0.7067564283700208,False,Boxing Fight Gloves
+True,33.0,True,0.989159593172953,False,Boxing Training Gloves
+True,45.0,True,-0.611856358404864,True,Boxing Training Gloves
+False,49.0,True,-0.6126183145319489,False,Boxing Training Gloves
+True,,False,2.108154792328209,False,Boxing Training Gloves
+False,,False,-0.2639816353699179,False,Boxing Training Gloves
+False,41.0,False,-0.28751355439064447,False,Martial Arts Hand Wraps
+False,40.0,False,-0.38203264629225886,True,Boxing Training Gloves
+False,,False,0.3811760114125661,False,Boxing Fight Gloves
+False,50.0,False,-0.5779232163616694,False,Boxing Training Gloves
+True,47.0,False,-0.722501782037249,True,Boxing Gloves
+False,46.0,False,-0.7383254188682189,False,Boxing Training Gloves
+True,44.0,False,-0.5183079777336456,True,Boxing Training Gloves
+False,43.0,False,0.22631625689892226,False,Boxing Training Gloves
+False,,False,1.4948062044127308,False,Boxing Training Gloves
+True,46.0,False,-0.7400319918377859,True,Boxing Training Gloves
+True,48.0,False,-0.7201898192680803,True,Boxing Training Gloves
+True,47.0,False,-0.7030040553880066,True,Boxing Fight Gloves
+True,46.0,False,-0.6475221678055394,True,Boxing Training Gloves
+False,,False,0.25518708768682635,False,Boxing Gloves
+False,50.0,False,-0.22538281676772368,True,Boxing Training Gloves
+True,46.0,False,-0.732120173422301,True,Boxing Fight Gloves
+False,,False,1.4367409724267906,False,Boxing Training Gloves
 False,,False,,False,
-False,,False,0.4658291531863109,False,Boxing Training Gloves
-False,,False,0.22756183296090096,False,Boxing Fight Gloves
-True,,False,0.3219617786861264,True,Training Gloves
-True,45.0,False,0.35312737187125004,True,Boxing Training Gloves
-False,42.0,True,0.1155798284408299,True,Boxing Training Gloves
-True,50.0,True,0.11340459724301107,True,Boxing Training Gloves
-True,47.0,True,0.005689310837570016,True,Boxing Fight Gloves
-False,43.0,True,0.013919571568498582,False,Boxing Training Gloves
-False,46.0,True,0.02770027603811107,False,Boxing Training Gloves
-False,,True,0.06484563490885654,False,Boxing Gloves
-True,45.0,False,0.35312737187125004,True,Boxing Training Gloves
-True,47.0,False,0.05897293469642168,True,Boxing Training Gloves
-False,46.0,False,0.028129597985048996,False,Boxing Fight Gloves
-False,,False,0.25186569537434755,False,Boxing Gloves
-False,39.0,False,0.39064586981686505,False,Boxing Training Gloves
-True,,False,0.8946104724873536,False,Boxing Training Gloves
+False,,False,1.534328764347076,False,Boxing Training Gloves
+False,,False,0.36128686894461554,False,Boxing Fight Gloves
+True,,False,0.8260383554457784,True,Training Gloves
+True,45.0,False,0.9794733563793251,True,Boxing Training Gloves
+False,42.0,True,-0.1900249211444319,True,Boxing Training Gloves
+True,50.0,True,-0.2007340579442835,True,Boxing Training Gloves
+True,47.0,True,-0.7310398657626668,True,Boxing Fight Gloves
+False,43.0,True,-0.6905205002100119,False,Boxing Training Gloves
+False,46.0,True,-0.6226750916339538,False,Boxing Training Gloves
+False,,True,-0.4398004022559809,False,Boxing Gloves
+True,45.0,False,0.9794733563793251,True,Boxing Training Gloves
+True,47.0,False,-0.46871298406454714,True,Boxing Training Gloves
+False,46.0,False,-0.6205614462129305,False,Boxing Fight Gloves
+False,,False,0.480940075284868,False,Boxing Gloves
+False,39.0,False,1.1641850906664344,False,Boxing Training Gloves
+True,,False,3.6453125578032073,False,Boxing Training Gloves
 False,48.0,False,,False,
-False,45.0,False,0.11860840326157474,False,Boxing Fight Gloves
-False,44.0,False,0.2225350559920623,False,Boxing Fight Gloves
-False,,False,0.43050920763069406,False,Boxing Training Gloves
-True,43.0,False,0.11177317384464694,True,Boxing Fight Gloves
-True,,False,0.8197441453207088,False,Boxing Fight Gloves
+False,45.0,False,-0.17511458789044745,False,Boxing Fight Gloves
+False,44.0,False,0.33653895144710266,False,Boxing Fight Gloves
+False,,False,1.3604409821666392,False,Boxing Training Gloves
+True,43.0,False,-0.20876591054417223,True,Boxing Fight Gloves
+True,,False,3.276729328519815,False,Boxing Fight Gloves
 True,,True,,True,
-True,46.0,True,0.004671658815198633,True,Boxing Fight Gloves
-True,46.0,True,0.007347235590683396,True,Boxing Fight Gloves
-False,44.0,False,0.09590840283755306,False,Boxing Training Gloves
-True,49.0,False,0.01893786810381747,True,Boxing Training Gloves
-False,41.0,False,0.2691180773161124,True,Boxing Training Gloves
-True,47.0,False,0.15418064171440443,False,Boxing Training Gloves
-True,46.0,False,0.054067003905239636,True,Boxing Training Gloves
-False,40.0,False,0.14745141771647366,False,Bag Gloves
-False,,False,0.418171236913631,False,Boxing Training Gloves
-True,49.0,False,0.16566738891692143,False,Training Gloves
-False,42.0,False,0.2974904277106646,False,Training Gloves
-False,50.0,False,0.799007365256512,False,Boxing Fight Gloves
-False,39.0,False,0.10174188104495901,False,Boxing Training Gloves
-True,,False,0.2798680868566001,False,Boxing Sets
-False,45.0,True,0.11860840326157474,False,Boxing Fight Gloves
-True,,True,0.058883890144464185,True,Boxing Gloves
-True,46.0,True,0.0001844494290548133,True,Boxing Training Gloves
-True,48.0,False,0.126813222691944,False,Boxing Training Gloves
-False,44.0,False,0.03883932546631784,False,Boxing Training Gloves
-True,,False,0.97617316197204,False,Boxing Fight Gloves
-False,42.0,False,0.4225969631567566,False,Boxing Training Gloves
-True,46.0,False,0.5578323163880138,False,Boxing Training Gloves
-False,45.0,False,0.06611133961168095,False,Boxing Training Gloves
-True,46.0,False,0.15139799946573268,True,Boxing Fight Gloves
-True,47.0,False,0.033506192836577804,True,Boxing Training Gloves
-False,43.0,False,0.08869155391223599,True,Training Gloves
-False,46.0,False,0.013330181438875155,False,Boxing Fight Gloves
-False,30.0,False,0.4212443340103546,False,Martial Arts Hand Wraps
-False,,False,0.7380203275991468,False,Boxing Training Gloves
-False,44.0,False,0.01630045327917163,False,Boxing Training Gloves
-False,43.0,False,0.09735007653591252,False,Boxing Training Gloves
-False,46.0,False,0.19033697002590771,False,Boxing Training Gloves
-True,44.0,False,0.21201507821079812,False,Boxing Training Gloves
-False,34.0,False,0.24967774352624905,False,Boxing Training Gloves
-False,44.0,False,0.11273570304913987,False,Training Gloves
-True,48.0,False,0.09712216488506892,True,Boxing Sets
-False,45.0,False,0.009343317630397266,False,Boxing Fight Gloves
-False,42.0,False,0.1155798284408299,True,Boxing Training Gloves
-True,,False,0.20609043534305474,False,Boxing Sets
-False,45.0,False,0.05877046434613738,False,Boxing Training Gloves
-False,46.0,False,0.030170202300741612,False,Boxing Training Gloves
-False,,True,0.12653760860255175,False,Boxing Training Gloves
-True,50.0,True,0.11340459724301107,True,Boxing Training Gloves
-False,46.0,True,0.011396642596369527,False,Training Gloves
-False,46.0,True,0.02770027603811107,False,Boxing Training Gloves
-True,46.0,True,0.054067003905239636,True,Boxing Training Gloves
-True,49.0,True,0.008711525333175032,True,Boxing Training Gloves
-False,45.0,False,8.586438938758549e-05,True,Boxing Training Gloves
-True,,False,0.5574093547662157,True,Boxing Training Gloves
-False,50.0,False,0.20391944436199577,False,Boxing Fight Gloves
-False,50.0,False,0.25563630812807153,False,Boxing Fight Gloves
-False,,False,0.8889890051179417,False,Boxing Training Gloves
-True,,False,0.720268660133906,False,Boxing Training Gloves
-False,,False,0.6131311032619987,False,Boxing Training Gloves
-False,50.0,False,0.5194477541691931,False,Boxing Training Gloves
-False,50.0,False,0.7657577055339069,False,Boxing Gloves
-True,47.0,False,8.904455195749606e-05,False,Boxing Sets
-False,45.0,False,0.005801676581706857,False,Boxing Fight Gloves
-False,46.0,False,0.15773712352175442,False,Boxing Training Gloves
-True,47.0,True,0.005689310837570016,True,Boxing Fight Gloves
-True,46.0,True,0.004671658815198633,True,Boxing Fight Gloves
-True,46.0,True,0.007347235590683396,True,Boxing Fight Gloves
+True,46.0,True,-0.7360499882421295,True,Boxing Fight Gloves
+True,46.0,True,-0.7228775412232088,True,Boxing Fight Gloves
+False,44.0,False,-0.2868716324479633,False,Boxing Training Gloves
+True,49.0,False,-0.6658143337331612,True,Boxing Training Gloves
+False,41.0,False,0.5658773079445099,True,Boxing Training Gloves
+True,47.0,False,1.528715468937306e-05,False,Boxing Training Gloves
+True,46.0,False,-0.49286594951762375,True,Boxing Training Gloves
+False,40.0,False,-0.033114147740758035,False,Bag Gloves
+False,,False,1.299698465980736,False,Boxing Training Gloves
+True,49.0,False,0.05656704464162511,False,Training Gloves
+False,42.0,False,0.7055605664474478,False,Training Gloves
+False,50.0,False,3.174637645245596,False,Boxing Fight Gloves
+False,39.0,False,-0.2581521491099597,False,Boxing Training Gloves
+True,,False,0.6188019455114179,False,Boxing Sets
+False,45.0,True,-0.17511458789044745,False,Boxing Fight Gloves
+True,,True,-0.4691513697815001,True,Boxing Gloves
+True,46.0,True,-0.7581414970500107,True,Boxing Training Gloves
+True,48.0,False,-0.13472047539977908,False,Boxing Training Gloves
+False,44.0,False,-0.5678351259941679,False,Boxing Training Gloves
+True,,False,4.046863436776981,False,Boxing Fight Gloves
+False,42.0,False,1.3214872798888162,False,Boxing Training Gloves
+True,46.0,False,1.9872803686335876,False,Boxing Training Gloves
+False,45.0,False,-0.4335690624221491,False,Boxing Training Gloves
+True,46.0,False,-0.013684266500091573,True,Boxing Fight Gloves
+True,47.0,False,-0.5940912991131023,True,Boxing Training Gloves
+False,43.0,False,-0.3224017510314866,True,Training Gloves
+False,46.0,False,-0.6934221961460341,False,Boxing Fight Gloves
+False,30.0,False,1.3148279920931971,False,Martial Arts Hand Wraps
+False,,False,2.87438518015346,False,Boxing Training Gloves
+False,44.0,False,-0.6787989011591021,False,Boxing Training Gloves
+False,43.0,False,-0.2797739589353911,False,Boxing Training Gloves
+False,46.0,False,0.17802076374793452,False,Boxing Training Gloves
+True,44.0,False,0.2847468103156565,False,Boxing Training Gloves
+False,34.0,False,0.4701683119540231,False,Boxing Training Gloves
+False,44.0,False,-0.20402716969901372,False,Training Gloves
+True,48.0,False,-0.28089601761568744,True,Boxing Sets
+False,45.0,False,-0.7130503947348459,False,Boxing Fight Gloves
+False,42.0,False,-0.1900249211444319,True,Boxing Training Gloves
+True,,False,0.25557850350553435,False,Boxing Sets
+False,45.0,False,-0.46970978968285687,False,Boxing Training Gloves
+False,46.0,False,-0.6105151068660911,False,Boxing Training Gloves
+False,,True,-0.13607738357130023,False,Boxing Training Gloves
+True,50.0,True,-0.2007340579442835,True,Boxing Training Gloves
+False,46.0,True,-0.7029414288570133,False,Training Gloves
+False,46.0,True,-0.6226750916339538,False,Boxing Training Gloves
+True,46.0,True,-0.49286594951762375,True,Boxing Training Gloves
+True,49.0,True,-0.716160845774179,True,Boxing Training Gloves
+False,45.0,False,-0.7586268526652086,True,Boxing Training Gloves
+True,,False,1.9851980364780608,True,Boxing Training Gloves
+False,50.0,False,0.24489024221601383,False,Boxing Fight Gloves
+False,50.0,False,0.499503622846794,False,Boxing Fight Gloves
+False,,False,3.6176368499817584,False,Boxing Training Gloves
+True,,False,2.786989856152332,False,Boxing Training Gloves
+False,,False,2.25952833661656,False,Boxing Training Gloves
+False,50.0,False,1.7983048113613522,False,Boxing Training Gloves
+False,50.0,False,3.0109423309843164,False,Boxing Gloves
+True,47.0,False,-0.7586111960324602,False,Boxing Sets
+False,45.0,False,-0.7304866647388928,False,Boxing Fight Gloves
+False,46.0,False,0.017524621444895114,False,Boxing Training Gloves
+True,47.0,True,-0.7310398657626668,True,Boxing Fight Gloves
+True,46.0,True,-0.7360499882421295,True,Boxing Fight Gloves
+True,46.0,True,-0.7228775412232088,True,Boxing Fight Gloves
 False,,False,,False,
-False,45.0,False,0.0627880697261244,False,Training Gloves
-True,50.0,False,0.25474904277106647,False,Boxing Training Gloves
-False,48.0,False,0.09963767347786819,False,Boxing Training Gloves
-False,50.0,False,0.32988144353939375,False,Boxing Fight Gloves
-False,50.0,False,0.7718678578848951,False,Training Gloves
-False,43.0,False,0.008161357208580503,False,Boxing Training Gloves
-False,50.0,False,0.16031517531176193,False,Boxing Training Gloves
-False,45.0,False,0.011902288444985308,False,Boxing Training Gloves
-False,46.0,False,0.004628196593409855,True,Boxing Training Gloves
-True,50.0,False,0.24382412428923367,False,Boxing Training Gloves
-False,39.0,False,0.170092055105857,False,Boxing Gym Equipment
-False,43.0,True,0.013919571568498582,False,Boxing Training Gloves
-True,44.0,True,0.012113239228789376,True,Boxing Training Gloves
-True,47.0,True,0.11059969385634993,True,Boxing Training Gloves
+False,45.0,False,-0.4499302436441446,False,Training Gloves
+True,50.0,False,0.49513542231001245,False,Boxing Training Gloves
+False,48.0,False,-0.26851162111176546,False,Boxing Training Gloves
+False,50.0,False,0.8650285898666807,False,Boxing Fight Gloves
+False,50.0,False,3.041023941371424,False,Training Gloves
+False,43.0,False,-0.7188694432396385,False,Boxing Training Gloves
+False,50.0,False,0.030216931726200737,False,Boxing Training Gloves
+False,45.0,False,-0.7004520242500302,False,Boxing Training Gloves
+False,46.0,False,-0.7362639622230233,True,Boxing Training Gloves
+True,50.0,False,0.44134966994194674,False,Boxing Training Gloves
+False,39.0,False,0.07835063967212251,False,Boxing Gym Equipment
+False,43.0,True,-0.6905205002100119,False,Boxing Training Gloves
+True,44.0,True,-0.6994134676110583,True,Boxing Training Gloves
+True,47.0,True,-0.2145432080283027,True,Boxing Training Gloves
 True,,False,,False,
 True,,False,,False,
-False,,False,0.36662080165538063,False,Boxing Fight Gloves
-False,,False,0.164330660583369,False,Boxing Training Gloves
-True,46.0,False,0.0056479687241611795,True,Boxing Training Gloves
-False,34.0,False,0.16669776158957245,False,Boxing Fight Gloves
-False,,False,0.66713980418679,False,Boxing Fight Gloves
-False,,False,0.415505200625856,False,Boxing Bag Gloves
-False,43.0,False,0.07177414909450171,False,Boxing Training Gloves
-True,47.0,False,0.5174845338093683,True,Boxing Fight Gloves
-False,,False,0.14011160250512006,False,Boxing Training Gloves
-False,47.0,False,0.0018699355911074174,False,Martial Arts Hand Wraps
-False,43.0,False,0.006902012830895915,False,Boxing Training Gloves
-False,38.0,False,0.23929451273549104,False,Boxing Training Gloves
-False,44.0,False,0.013436186857872174,False,Training Gloves
-True,46.0,False,0.12895241204730387,False,Boxing Training Gloves
-True,44.0,False,0.030564542459410524,True,Boxing Fight Gloves
-False,50.0,False,0.4382253420794871,False,Boxing Training Gloves
-False,44.0,False,0.07150913554700916,False,Training Gloves
-True,45.0,False,0.026726086237528462,True,Boxing Fight Gloves
-False,44.0,False,0.002289717050335613,False,Training Gloves
-False,42.0,False,0.011907588715935159,False,Boxing Fight Gloves
-False,43.0,False,0.07895177601478988,True,Training Gloves
-True,50.0,False,0.8019892976928981,False,Training Gloves
-True,46.0,True,0.003862837468251377,True,Boxing Training Gloves
-False,,True,0.12653760860255175,False,Boxing Training Gloves
-True,50.0,True,0.11340459724301107,True,Boxing Training Gloves
-False,42.0,True,0.12172708268846703,True,Boxing Training Gloves
-False,47.0,True,0.04290145312228361,False,Boxing Training Gloves
-False,43.0,True,0.08869155391223599,True,Training Gloves
-False,47.0,False,0.018924087399347856,False,Boxing Fight Gloves
-False,43.0,False,0.7782705851923151,False,Boxing Fight Gloves
+False,,False,1.0459044491304514,False,Boxing Fight Gloves
+False,,False,0.04998604000974749,False,Boxing Training Gloves
+True,46.0,False,-0.731243401988395,True,Boxing Training Gloves
+False,34.0,False,0.061639793652081144,False,Boxing Fight Gloves
+False,,False,2.525424930581297,False,Boxing Fight Gloves
+False,,False,1.2865729888600603,False,Boxing Bag Gloves
+False,43.0,False,-0.405689818374972,False,Boxing Training Gloves
+True,47.0,False,1.7886394500780554,True,Boxing Fight Gloves
+False,,False,-0.06924965612388309,False,Boxing Training Gloves
+False,47.0,False,-0.7498434816934004,False,Martial Arts Hand Wraps
+False,43.0,False,-0.7250694698079737,False,Boxing Training Gloves
+False,38.0,False,0.41904940603075475,False,Boxing Training Gloves
+False,44.0,False,-0.6929003083877566,False,Training Gloves
+True,46.0,False,-0.12418878043774176,False,Boxing Training Gloves
+True,44.0,False,-0.6085736844052994,True,Boxing Fight Gloves
+False,50.0,False,1.398429192091649,False,Boxing Training Gloves
+False,44.0,False,-0.4069945377706654,False,Training Gloves
+True,45.0,False,-0.6274712401325229,True,Boxing Fight Gloves
+False,44.0,False,-0.747776806170622,False,Training Gloves
+False,42.0,False,-0.7004259298621164,False,Boxing Fight Gloves
+False,43.0,False,-0.37035279826201134,True,Training Gloves
+True,50.0,False,3.1893183478859384,False,Training Gloves
+True,46.0,True,-0.7400319918377859,True,Boxing Training Gloves
+False,,True,-0.13607738357130023,False,Boxing Training Gloves
+True,50.0,True,-0.2007340579442835,True,Boxing Training Gloves
+False,42.0,True,-0.15976065004192724,True,Boxing Training Gloves
+False,47.0,True,-0.5478363870969791,False,Boxing Training Gloves
+False,43.0,True,-0.3224017510314866,True,Training Gloves
+False,47.0,False,-0.6658821791417373,False,Boxing Fight Gloves
+False,43.0,False,3.072545961971377,False,Boxing Fight Gloves
 True,,False,,False,
-True,46.0,False,0.08393827092440966,True,Boxing Sets
+True,46.0,False,-0.3458031981126439,True,Boxing Sets
 True,,False,,False,
-False,30.0,False,0.5227890449759792,False,Boxing Fight Gloves
-False,,False,0.42771808494850255,True,Boxing Fight Gloves
-True,47.0,False,0.007108723397940103,True,Boxing Fight Gloves
-True,44.0,False,0.13587668601618916,True,Boxing Fight Gloves
-False,45.0,False,0.002848365608449904,False,Martial Arts Hand Wraps
-True,45.0,False,0.06393716846805209,True,Boxing Training Gloves
-False,41.0,False,0.030340871025326815,False,Boxing Training Gloves
-True,47.0,True,0.005689310837570016,True,Boxing Fight Gloves
-False,,True,0.164330660583369,False,Boxing Training Gloves
-False,46.0,True,0.002088306754241277,False,Martial Arts Hand Wraps
-True,48.0,False,0.03653582771151261,False,Boxing Fight Gloves
+False,30.0,False,1.8147547135022548,False,Boxing Fight Gloves
+False,,False,1.346699677491196,True,Boxing Fight Gloves
+True,47.0,False,-0.7240517886793328,True,Boxing Fight Gloves
+True,44.0,False,-0.090099072067064,True,Boxing Fight Gloves
+False,45.0,False,-0.7450264576845003,False,Martial Arts Hand Wraps
+True,45.0,False,-0.4442729803444179,True,Boxing Training Gloves
+False,41.0,False,-0.6096748675752646,False,Boxing Training Gloves
+True,47.0,True,-0.7310398657626668,True,Boxing Fight Gloves
+False,,True,0.04998604000974749,False,Boxing Training Gloves
+False,46.0,True,-0.748768392911349,False,Martial Arts Hand Wraps
+True,48.0,False,-0.5791757469815351,False,Boxing Fight Gloves
 False,,False,,False,
-False,47.0,False,0.029615793959387203,False,Boxing Fight Gloves
-True,45.0,False,0.1315188032412217,True,Boxing Fight Gloves
+False,47.0,False,-0.6132445798418817,False,Boxing Fight Gloves
+True,45.0,False,-0.11155387780984664,True,Boxing Fight Gloves
 False,,False,,False,
-False,,False,0.49342660396799487,False,Boxing Training Gloves
-True,44.0,False,0.01677853771884819,False,Martial Arts Hand Wraps
-True,45.0,False,0.033836929743848505,True,Boxing Sets
-True,45.0,False,0.5098903055924219,False,Boxing Fight Gloves
-False,42.0,False,0.2951455878424505,False,Boxing Bag Gloves
+False,,False,1.6701970233370063,False,Boxing Training Gloves
+True,44.0,False,-0.6764451873692712,False,Martial Arts Hand Wraps
+True,45.0,False,-0.5924630093072769,True,Boxing Sets
+True,45.0,False,1.7512514110750645,False,Boxing Fight Gloves
+False,42.0,False,0.6940164092343524,False,Boxing Bag Gloves
 True,50.0,False,,True,
-False,,False,0.32576843328230937,False,Boxing Training Gloves
-True,47.0,True,0.033506192836577804,True,Boxing Training Gloves
-True,46.0,True,0.009027421481786148,True,Boxing Fight Gloves
-True,47.0,True,0.11074598133456583,True,Boxing Training Gloves
-False,44.0,False,0.007750056182872068,False,Boxing Punch Mitts
-False,44.0,False,0.1803947217781773,False,Boxing Training Gloves
-True,47.0,False,0.004616535997320183,True,Boxing Pads
-False,50.0,False,0.6135106026620081,False,Boxing Fight Gloves
-False,46.0,False,0.3321913016193388,False,Boxing Fight Gloves
-False,47.0,False,0.0032935883682373842,False,Boxing Fight Gloves
-True,50.0,False,0.21663479437068822,True,Training Gloves
+False,,False,0.8447793448455188,False,Boxing Training Gloves
+True,47.0,True,-0.5940912991131023,True,Boxing Training Gloves
+True,46.0,True,-0.7146056202545125,True,Boxing Fight Gloves
+True,47.0,True,-0.21382300292187995,True,Boxing Training Gloves
+False,44.0,False,-0.7208943677417547,False,Boxing Punch Mitts
+False,44.0,False,0.12907291089910003,False,Boxing Training Gloves
+True,47.0,False,-0.7363213698764338,True,Boxing Pads
+False,50.0,False,2.261396694791193,False,Boxing Fight Gloves
+False,46.0,False,0.8764005241195446,False,Boxing Fight Gloves
+False,47.0,False,-0.7428345290997354,False,Boxing Fight Gloves
+True,50.0,False,0.3074906788213843,True,Training Gloves
 True,48.0,False,,False,
-True,46.0,False,0.2202315582372571,True,Training Gloves
-True,44.0,False,0.22855722384528296,False,Boxing Fight Gloves
+True,46.0,False,0.32519833045973545,True,Training Gloves
+True,44.0,False,0.36618739499484004,False,Boxing Fight Gloves
 False,,False,,False,
-False,45.0,False,0.0,False,Martial Arts Hand Wraps
-True,47.0,False,0.10144612592595734,True,Boxing Pads
-False,46.0,False,0.11236786424522022,True,Boxing Training Gloves
-True,44.0,False,0.0803521075997405,True,Boxing Fight Gloves
-False,45.0,False,0.21393801651140407,False,Boxing Training Gloves
-True,,False,0.9228916582215683,True,Boxing Fight Gloves
-True,46.0,False,0.017803610120549363,True,Boxing Fight Gloves
-True,46.0,False,0.531789965103016,False,Boxing Training Gloves
-False,42.0,False,0.023945564097236652,False,Boxing Gym Equipment
-True,46.0,False,0.4050106641451511,True,Boxing Training Gloves
-True,44.0,False,0.09513562333306479,True,Training Gloves
-True,46.0,False,0.08783184996417016,True,Boxing Fight Gloves
-False,50.0,False,0.9995802185407718,False,Boxing Training Gloves
-True,49.0,True,0.010937639132112433,True,Boxing Training Gloves
-True,46.0,True,0.0037547119408744174,True,Boxing Training Gloves
+False,45.0,False,-0.7590495817494133,False,Martial Arts Hand Wraps
+True,47.0,False,-0.25960821595555356,True,Boxing Pads
+False,46.0,False,-0.20583812022023618,True,Boxing Training Gloves
+True,44.0,False,-0.36345866097516727,True,Boxing Fight Gloves
+False,45.0,False,0.29421385425080804,False,Boxing Training Gloves
+True,,False,3.7845469928340267,True,Boxing Fight Gloves
+True,46.0,False,-0.671398532746729,True,Boxing Fight Gloves
+True,46.0,False,1.8590682030575862,False,Boxing Training Gloves
+False,42.0,False,-0.6411603560321383,False,Boxing Gym Equipment
+True,46.0,False,1.2349061007906006,True,Boxing Training Gloves
+True,44.0,False,-0.29067619420580537,True,Training Gloves
+True,46.0,False,-0.32663426075111607,True,Boxing Fight Gloves
+False,50.0,False,4.162101472682207,False,Boxing Training Gloves
+True,49.0,True,-0.7052012028503543,True,Boxing Training Gloves
+True,46.0,True,-0.7405643173512289,True,Boxing Training Gloves
