@@ -1,0 +1,2 @@
+# Amazon-Prime-Classification-Model
+In this project, I try to classify Amazon shop products into Prime or not Prime. Mainly I focused on the search "Boxing Fighting Gloves" because I am a boxing fan, but the results should be easy to generalize to other products (this project can be seen as a benchmark). The goal is to help small sellers in order to decide, given a search result, if they should offer the Prime option.
