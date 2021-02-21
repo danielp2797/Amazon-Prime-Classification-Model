@@ -69,16 +69,14 @@ We can conclude some important facts such as:
 
 We will simplify the mentioned features to be used in the model.
 
-## 3.1 Price band
-During the exploratory analysis, we saw that the price conditioned the number of prime products. We will simplify the feature into boolean. We will assume a price bin between twenty and infinite pounds and another price bin between zero and 19.99 pounds. As we can see, the feature "price_band" catches the essence of the price-prime relation.
+## 3.1 Price interval
+During the exploratory analysis, we saw that the price conditioned the number of prime products. We will simplify the feature into boolean. We will assume a price bin between twenty and infinite pounds and another price bin between zero and 19.99 pounds. As we can see, the feature "price_bool" catches the essence of the price-prime relation.
 <p align="center">
 <a href="url"><img src="https://github.com/danielp2797/Amazon-Prime-Classification-Model/blob/main/notebooks/figures/price_bool.png" align="center" height="400" width="600" ></a>
 </p>
 
 ## 3.2 Position in category rank standarization
-We are going to standarize the position in category due to the high range of values [396 , 943348].
-$$Y = \frac{X - \mu_x}{\sigma_x}$$
-If we use this transformation, the optimization algorithms will perform better in a soft space than in a large and empty one.
+We are going to standarize the position in category due to the high range of values [396 , 943348]. If we use this transformation, the optimization algorithms will perform better in a soft space than in a large and empty one.
 
 ## 3.3 Rating into integer
 Initially, the rating is between zero and five with one decimal (ex: 4.2, 3.8, etc.). We will transform the feature into an integer such that: Rating ---> 10 x Rating. This transformation allows better interpretability in terms of unitary increments than the float version.
@@ -120,7 +118,7 @@ We could interpret the model as follows:
 In order to get an insight about the predictive power we can see below the result of a cross validation.
 
 <p align="center">
-<a href="url"><img src="https://github.com/danielp2797/Amazon-Prime-Classification-Model/blob/main/notebooks/figures/cv-result.png" align="center" height="200" width="500" ></a>
+<a href="url"><img src="https://github.com/danielp2797/Amazon-Prime-Classification-Model/blob/main/notebooks/figures/cv-result.png" align="center" height="300" width="800" ></a>
 </p>
 
 We can see that the model does not seem to depend on the sample because the scores look similar in both training and test sets, so there is no strong evidence of overfitting.
@@ -151,13 +149,13 @@ In overall the Logistic Regression can classify Boxing Gloves products into Prim
 
 # 6. Model's Threshold discussion
 
-Let's say that the Amazon Prime option has a cost of $c > 0$ by month, and the opportunity cost by purchase (the customer does not buy the product because it is not in Prime option) is $c'>0$. How could we say in order to the costs if the model still being acceptable?
+Let's say that the Amazon Prime option has a cost of c > 0 by month, and the opportunity cost by purchase (the customer does not buy the product because it is not in Prime option) is c' > 0. How could we say in order to the costs if the model still being acceptable?
 
 We should consider three cases:
 
-1. $c'>c$, in this case, the seller would want to sell in Amazon Prime option even the cost of Amazon Prime because the opportunity cost of no selling is greater than the Amazon subscription. In this case, we should adjust the threshold close to 1 in order to ensure that the False Negatives (products that are wrong classified in no Prime) are as less as possible.
-2. $c'<c$, this case is the opposite of the above one.
-3. $c' \approx c$, in this case, does not matter the costs, and the threshold is set up at 0.5 by definition, which usually means balanced classification errors.
+1. c'>c, in this case, the seller would want to sell in Amazon Prime option even the cost of Amazon Prime because the opportunity cost of no selling is greater than the Amazon subscription. In this case, we should adjust the threshold close to 1 in order to ensure that the False Negatives (products that are wrong classified in no Prime) are as less as possible.
+2. c'<c, this case is the opposite of the above one.
+3. c' approximate equal to c, in this case, does not matter the costs, and the threshold is set up at 0.5 by definition, that usually means balanced classification errors.
 
 # 7. Limitations and future points of improvement
 
