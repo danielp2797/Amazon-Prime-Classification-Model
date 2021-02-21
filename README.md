@@ -153,8 +153,8 @@ Let's say that the Amazon Prime option has a cost of c > 0 by month, and the opp
 
 We should consider three cases:
 
-1. c'>c, in this case, the seller would want to sell in Amazon Prime option even the cost of Amazon Prime because the opportunity cost of no selling is greater than the Amazon subscription. In this case, we should adjust the threshold close to 1 in order to ensure that the False Negatives (products that are wrong classified in no Prime) are as less as possible.
-2. c'<c, this case is the opposite of the above one.
+1. c'>c, in this case, the seller would want to sell in Amazon Prime option even the cost of Amazon Prime because the opportunity cost of no selling is greater than the Amazon subscription. In this case, we should define the threshold close to 0 in order to ensure that the False Negatives (products that are wrong classified in no Prime) are as less as possible.
+2. c'<c, this case is the opposite of the above one and the threshold should be close to 1.
 3. c' approximate equal to c, in this case, does not matter the costs, and the threshold is set up at 0.5 by definition, that usually means balanced classification errors.
 
 # 7. Limitations and future points of improvement
