@@ -158,3 +158,9 @@ We should consider three cases:
 1. $c'>c$, in this case, the seller would want to sell in Amazon Prime option even the cost of Amazon Prime because the opportunity cost of no selling is greater than the Amazon subscription. In this case, we should adjust the threshold close to 1 in order to ensure that the False Negatives (products that are wrong classified in no Prime) are as less as possible.
 2. $c'<c$, this case is the opposite of the above one.
 3. $c' \approx c$, in this case, does not matter the costs, and the threshold is set up at 0.5 by definition, which usually means balanced classification errors.
+
+# 7. Limitations and future points of improvement
+
+It is well known that Amazon shows the results that best match the customer profile. For this reason, I used a neutral browser during the scraping. In addition, it is a dynamic shop in constant change, then, the results today could not be accurate tomorrow. For this reason, the entire process is implemented to run in less than an hour.
+
+Secondly, one of the model features is the price bin of the product. This feature could change across product types. In the case of boxing gloves is [20, inf]. But, for other products, this interval can be different and should be investigated particularly.
