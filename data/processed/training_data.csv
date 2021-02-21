@@ -1,4 +1,4 @@
-price_band,rating_mult,sponsored_option,position_cat_stand,prime_option,subcategory
+price_bool,rating_mult,sponsored_option,position_cat_stand,prime_option,subcategory
 True,49.0,True,-0.7565132072441852,True,Boxing Training Gloves
 True,46.0,True,-0.7407626346993742,True,Boxing Gloves
 True,49.0,True,-0.7382523545820601,True,Boxing Gloves
