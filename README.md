@@ -161,4 +161,4 @@ We should consider three cases:
 
 It is well known that Amazon shows the results that best match the customer profile. For this reason, I used a neutral browser during the scraping. In addition, it is a dynamic shop in constant change, then, the results today could not be accurate tomorrow. For this reason, the entire process is implemented to run in less than an hour.
 
-Secondly, one of the model features is the price bin of the product. This feature could change across product types. In the case of boxing gloves is [20, inf]. But, for other products, this interval can be different and should be investigated particularly.
+Secondly, one of the model features is the price bin of the product. This feature could change across product types. In the case of boxing gloves is [20, inf]. But, for other products, this interval can be different and should be researched particularly.
