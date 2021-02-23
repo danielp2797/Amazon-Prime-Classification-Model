@@ -1,6 +1,21 @@
 # Amazon-Prime-Classification-Model
 In this project, I try to classify Amazon shop products into Prime or not Prime. Mainly I focused on the search "Boxing Fighting Gloves" because I am a boxing fan, but the results should be easy to generalize to other products (this project can be seen as a benchmark). The goal is to help small sellers in order to decide, given a search result, if they should offer the Prime option based on some relevant features.
 
+# Overview
+
+The project is focused on Amazon's online shop web scraping throughout a Chrome browser automated with Selenium. The script located in src collects the following features from the input search:
+
+- title: the product title (string)
+- brand: the name of the company brand which sells the product (string)
+- rating: the rating of the product (float between 0 and 5)
+- ratings_number: the number of customer ratings (integer)
+- price: the price of the product (integer, rounded from float)
+- prime_option: a boolean feature that takes True value if the product is sold in Prime option.
+- answers: the number of customer questions answered by the seller (integer)
+- first_date: the date first day the product has been available in the shop (date-time)
+
+See the notebooks folder to get a good insight about how to preprocess the raw data.
+
 # 1. Insights about the search "Boxing Fighting Gloves"
 
 ## 1.1 Which categories have the companies chosen to sell their product in the key words "boxing fighting gloves"?
